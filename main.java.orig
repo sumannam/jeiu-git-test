@@ -1,0 +1,15 @@
+int sum1 = 0;
+
+<<<<<<< HEAD
+for( int i = 1; i <= 100; i++)
+{
+	sum += i;
+}
+
+System.out.println( "Total: " + sum );
+=======
+for( int j = 1; j <= 100; j++)
+	sum1 *= j;
+
+System.out.println( sum1 );
+>>>>>>> dev/sub
